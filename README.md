@@ -56,7 +56,3 @@ All changes below were made on or before 2026-01-29.
 - To preview: open `index.html` in a browser (no build step required).
 - Tuning options: adjust `assets/js/pcb.js` variables (`BASE_WISP_SPEED`, path density)
 	and `assets/css/styles.css` for color/contrast.
-
-If you want, I can add a production-friendly build (minified JS/CSS), or wire in
-placeholder content for the company pages.
-
