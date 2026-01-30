@@ -6,11 +6,9 @@
 
 # Marbel Softworks
 
-Brief demo site for MBSoftworks showcasing a blue PCB theme with animated circuit traces.
-
 ## Purpose
 
-This repository is a small demo site for Marbel Softworks (MBSoftworks). It demonstrates
+This repository is a small site for Marbel Softworks (MBSoftworks). It demonstrates
 an animated background that resembles a printed circuit board (PCB) with light "wisps"
 travelling along generated circuit traces, a responsive hero and navigation, and a
 minimal, accessible layout for marketing pages.
